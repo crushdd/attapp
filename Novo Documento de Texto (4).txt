@@ -1,9 +1,9 @@
 {
-  "Version": "1.0.251",
+  "Version": "1.0.252",
   "ReleaseNotes": "🚸 ATENÇÃO 🚸\n Nova Atualização Disponível 🦸🏻\n\n
 🔧 ATUALIZAÇÃO DE SISTEMA\n===============================\n
 🔄 VERIFICA SEMPRE SE HÁ \n ATUALIZAÇÃO NO APLICATIVO\n===============================\n A MELHOR VPN DO MERCADO… 🚀",
-  "UrlUpdate": "https://bitbin.it/OzAXtEEw/raw/",
+  "UrlUpdate": "https://github.com/crushdd/attapp",
   "Sms": "Bem Vindo!",
   "EmailFeedback": "",
   "UrlContato": "",
