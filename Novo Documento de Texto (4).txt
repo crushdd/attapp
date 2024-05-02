@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.253",
+  "Version": "1.0.254",
   "ReleaseNotes": "🚸 ATENÇÃO 🚸\n Nova Atualização Disponível 🦸🏻\n\n
 🔧 ATUALIZAÇÃO DE SISTEMA\n===============================\n
 🔄 VERIFICA SEMPRE SE HÁ \n ATUALIZAÇÃO NO APLICATIVO\n===============================\n A MELHOR VPN DO MERCADO… 🚀",
