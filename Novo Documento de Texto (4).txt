@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.252",
+  "Version": "1.0.253",
   "ReleaseNotes": "🚸 ATENÇÃO 🚸\n Nova Atualização Disponível 🦸🏻\n\n
 🔧 ATUALIZAÇÃO DE SISTEMA\n===============================\n
 🔄 VERIFICA SEMPRE SE HÁ \n ATUALIZAÇÃO NO APLICATIVO\n===============================\n A MELHOR VPN DO MERCADO… 🚀",
@@ -26,7 +26,7 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor | Otimizado 2💜",
+      "Name": "Servidor | Otimizado 0000💜",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "45.140.192.112",
